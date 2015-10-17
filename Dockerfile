@@ -1,5 +1,4 @@
-FROM java:7
-#FROM ubuntu:14.04
+FROM ubuntu:14.04
 MAINTAINER wakaru44@gmail.com
 LABEL Description="This image is a test to run minecraft inside a container"
 
